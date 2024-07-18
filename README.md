@@ -1,25 +1,42 @@
-# CS-230
+# Operating Platforms and Requirement Analysis
 
-# Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+## Client and Software Requirements
+Client: The Gaming Room
 
-The Gaming Room has a game application called Draw It or Lose It for Android systems. The Gaming room is interested in expanding their game cross-platform utilizing different software patterns. The gaming room is interested in evaluating three operating systems to deploy their game application software. The software will act as a server to deploy a web-based version of their game, Draw-it or Lose-it. The software must have one instance of the game in memory at once, one or more teams, multiple players per team, and game and team names must be unique. 
+Project: Draw It or Lose It - Cross-Platform Expansion
 
-# What did you do particularly well in developing this documentation?
+The Gaming Room, a video game and software developer, sought to expand their popular Android game, Draw It or Lose It, to a cross-platform environment. Their goal was to deploy a web-based version of the game, ensuring it supports multiple operating systems. Key requirements included:
 
-The recommendations section of the software design document for The Gaming Room is the most vital aspect of this document. The Windows OS is my recommendation to deploy The Gaming Room server for their game, Draw-It or Lose-It. In the recommendations section, I analyzed the characteristics of the operating system, architecture, memory management, storage management, distributed systems, networks, and security. 
+* A single instance of the game in memory at a time.
+* Support for multiple teams, each with multiple players.
+* Unique names for games and teams to avoid conflicts.
 
-# What about the process of working through a design document did you find helpful when developing the code?
+## Key Contributions and Recommendations
 
-Working through the software design document allowed me to analyze different architectural design patterns to implement in developing the code for the software. Exploring the various operating systems and creating a chart helped visualize the various solutions and select the most effective operating system to deploy the software. 
+In developing the software design document for The Gaming Room, my focus was on the recommendations section, which I believe is the most crucial part of the document. My recommendation was to deploy the game server on the Windows OS. This decision was based on a detailed analysis of various factors, including:
 
-# If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+* Operating system architecture
+* Memory management
+* Storage management
+* Distributed systems
+* Network capabilities
+* Security features
 
-I would update the evaluation section of the software design document to identify the latest updates and trends in the industry. Although the Windows OS is a dominant operating system, there are potential solutions that are more beneficial for The Gaming Room, such as cloud operating systems. Infrastructure as a service is a great idea to keep up with the trends and advancements in the industry.
+## Process and Learning
 
-# How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+Working through the design document was instrumental in enhancing my understanding of different architectural design patterns and their implementation in software development. By evaluating various operating systems and creating comparative charts, I could effectively visualize and select the optimal solution for the deployment.
 
-It is essential to interpret the client’s needs when developing the software design because they may have a client base that relies on their original gaming application, functionality, and data. Integrating a client’s application cross-platform can come with many risks. Client data, security, and integrity must be prioritized to transition to a web-based distributed environment. 
+## Areas for Improvement
 
-# How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+If I were to revise one part of my work, it would be the evaluation section of the software design document. Updating it to reflect the latest industry trends and technological advancements would be beneficial. For instance, while Windows OS is robust, exploring cloud operating systems and Infrastructure as a Service (IaaS) could provide more flexible and scalable solutions for The Gaming Room.
 
-I used clear, concise documentation addressing all of the client's software requirements to develop the Software Design Document. I would consider upcoming or latest trends to make recommendations for a software design to ensure it will be relevant and compatible long-term.    
+## User-Centric Design
+
+Interpreting and incorporating the user's needs into the software design was paramount. The client's existing user base relies on the current functionality and data of the gaming application. Therefore, ensuring data security and integrity during the transition to a web-based, distributed environment was a priority. A user-centric approach minimizes risks and enhances the overall user experience.
+
+## Future Approaches
+In future projects, I plan to:
+
+* Maintain clear and concise documentation that comprehensively addresses client requirements.
+* Stay updated with the latest trends to ensure recommendations are both relevant and forward-compatible.
+* Use advanced analytical techniques to evaluate potential solutions, ensuring the chosen design is effective and sustainable.
