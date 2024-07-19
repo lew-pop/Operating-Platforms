@@ -1,7 +1,7 @@
 # Operating Platforms and Requirement Analysis
 
 ## Repository Overview
-Welcome to the repository for the Draw It or Lose It game application project. This repository is a comprehensive showcase of my experience and skills in gathering business and software requirements, translating them into a detailed Project Software Design document, and implementing that design into a fully functional project directory. Inside this repository, you will find:
+This repository showcases my experience and skills in gathering business and software requirements, translating them into a detailed Project Software Design document, and implementing that design into a fully functional project directory. Inside this repository, you will find:
 * Game App Project Design Document: This document provides an in-depth analysis and blueprint for the Draw It or Lose It game application.
 * Game App Project Files: These files contain the complete codebase for the Draw It or Lose It game application, including source code, configuration files, and documentation.
 
