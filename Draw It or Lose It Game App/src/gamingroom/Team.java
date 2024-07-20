@@ -11,7 +11,7 @@ import java.util.List;
  * No mutators (setters) defined so these
  * values cannot be changed once a team is
  * created.
- * </p>
+ * 
  * @author Lewis Quick
  *
  */

@@ -1,5 +1,13 @@
 # Operating Platforms and Requirement Analysis
 
+## Repository Overview
+This repository showcases my experience and skills in gathering business and software requirements, translating them into a detailed Project Software Design document, and implementing that design into a fully functional game application. Additionally, this project highlights my ability to evaluate and determine the optimal operating system for hosting and deploying a game server. Inside this repository, you will find:
+
+* Game App Project Files: These files contain the complete codebase for the Draw It or Lose It game application, implementing a Singleton design pattern. They include the source code, configuration files, and documentation.
+
+* Game App Project Design Document: This document provides an in-depth analysis and blueprint for the Draw It or Lose It game application.
+
+
 ## Client and Software Requirements
 Client: The Gaming Room
 
@@ -13,7 +21,7 @@ The Gaming Room, a video game and software developer, sought to expand their pop
 
 ## Key Contributions and Recommendations
 
-In developing the software design document for The Gaming Room, my focus was on the recommendations section, which I believe is the most crucial part of the document. My recommendation was to deploy the game server on the Windows OS. This decision was based on a detailed analysis of various factors, including:
+In developing the software design document for The Gaming Room, I concentrated on the recommendations section, which I consider the most critical part of the document. I recommended implementing a Singleton software design pattern and deploying the game server on the Windows OS. This recommendation was based on a detailed analysis of various factors, including:
 
 * Operating system architecture
 * Memory management
